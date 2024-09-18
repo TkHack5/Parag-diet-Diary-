@@ -1,0 +1,25 @@
+.upper {
+    height: 200px;
+    width: 500px;
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+}
+
+body {
+    background-image: url(./pexels-psco-139259.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+}
+
+.contact-info {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    margin: 20px;
+}
